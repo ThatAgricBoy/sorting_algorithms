@@ -1,8 +1,3 @@
-/*
- * File: 106-bitonic_sort.c
- * 
- */
-
 #include "sort.h"
 
 void swap_ints(int *a, int *b);
